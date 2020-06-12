@@ -1,0 +1,6 @@
+projectKey=HW-S-Environment_Monitoring_System
+serverUrl=https://sonarcode.jeager.io
+serverVersion=7.8.0.26217
+dashboardUrl=https://sonarcode.jeager.io/dashboard?id=HW-S-Environment_Monitoring_System
+ceTaskId=AWyqCy4N4tEQT53CNT80
+ceTaskUrl=https://sonarcode.jeager.io/api/ce/task?id=AWyqCy4N4tEQT53CNT80

@@ -1,0 +1,11 @@
+[Unit]
+Description=EMS Service
+After=network.target
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/hw-s-environment-monitoring-system/docker_connect
+ExecStart=/usr/bin/python connect.py
+Restart=always
+[Install]
+WantedBy=multi-user.target

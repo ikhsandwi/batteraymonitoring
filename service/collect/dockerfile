@@ -1,0 +1,26 @@
+# Python Base Image from https://hub.docker.com/r/arm32v7/python/
+FROM python:3.6-slim-buster
+# Update OS
+RUN apt-get update -y
+# Copy pip file
+RUN mkdir /app
+WORKDIR /app
+COPY Pipfile Pipfile
+COPY Pipfile.lock Pipfile.lock
+# Install environment
+RUN pip install pipenv
+RUN pipenv install --system --deploy --ignore-pipfile
+# Python File
+RUN mkdir /service
+WORKDIR /service
+RUN mkdir /python
+# Copy all file
+COPY service/collect /app/service/python
+# Change Workdir
+WORKDIR /app/service/python
+# Add permision script
+RUN chmod +x start_collect.sh
+# Folder to run script
+ENTRYPOINT ["/bin/bash"]
+# Trigger Python script
+CMD ["start_collect.sh"]

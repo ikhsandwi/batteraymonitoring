@@ -1,0 +1,1022 @@
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'
+root - ERROR - Exception occurred parse serial
+Traceback (most recent call last):
+  File "collect.py", line 91, in parse_json
+    temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
+  File "collect.py", line 174, in temperaturehumidity
+    rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
+AttributeError: 'SensorModbus' object has no attribute 'client'

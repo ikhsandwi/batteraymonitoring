@@ -1,0 +1,30 @@
+{"sensors": [{"sensor_name": "temperatur", "value": 28.5}, {"sensor_name": "kelembapan", "value": 50.4}], "time": "2019-12-05 16:19:00 +0700", "device_id": "Ruang Networks"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.3}, {"sensor_name": "kelembapan", "value": 50.6}], "time": "2019-12-05 16:19:30 +0700", "device_id": "Ruang Data Server"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.3}, {"sensor_name": "kelembapan", "value": 50.3}], "time": "2019-12-05 16:20:00 +0700", "device_id": "Ruang Data Server"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.3}, {"sensor_name": "kelembapan", "value": 49.6}], "time": "2019-12-05 16:21:00 +0700", "device_id": "Ruang Data Server"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.5}, {"sensor_name": "kelembapan", "value": 48.7}], "time": "2019-12-05 16:21:01 +0700", "device_id": "Ruang Networks"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.3}, {"sensor_name": "kelembapan", "value": 49.6}], "time": "2019-12-05 16:21:01 +0700", "device_id": "Ruang Data Server"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.2}, {"sensor_name": "kelembapan", "value": 49.2}], "time": "2019-12-05 16:21:30 +0700", "device_id": "Ruang Data Server"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.5}, {"sensor_name": "kelembapan", "value": 48.4}], "time": "2019-12-05 16:21:31 +0700", "device_id": "Ruang Networks"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.2}, {"sensor_name": "kelembapan", "value": 49.7}], "time": "2019-12-05 16:22:00 +0700", "device_id": "Ruang Data Server"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.5}, {"sensor_name": "kelembapan", "value": 49.2}], "time": "2019-12-05 16:22:01 +0700", "device_id": "Ruang Networks"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.2}, {"sensor_name": "kelembapan", "value": 49.8}], "time": "2019-12-05 16:22:01 +0700", "device_id": "Ruang Data Server"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.2}, {"sensor_name": "kelembapan", "value": 50.5}], "time": "2019-12-05 16:22:31 +0700", "device_id": "Ruang Data Server"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.5}, {"sensor_name": "kelembapan", "value": 50.2}], "time": "2019-12-05 16:23:00 +0700", "device_id": "Ruang Networks"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.5}, {"sensor_name": "kelembapan", "value": 50.2}], "time": "2019-12-05 16:23:01 +0700", "device_id": "Ruang Networks"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.4}, {"sensor_name": "kelembapan", "value": 52.5}], "time": "2019-12-05 16:25:00 +0700", "device_id": "Ruang Networks"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.4}, {"sensor_name": "kelembapan", "value": 52.5}], "time": "2019-12-05 16:25:01 +0700", "device_id": "Ruang Networks"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.4}, {"sensor_name": "kelembapan", "value": 52.8}], "time": "2019-12-05 16:25:30 +0700", "device_id": "Ruang Networks"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.4}, {"sensor_name": "kelembapan", "value": 52.9}], "time": "2019-12-05 16:25:31 +0700", "device_id": "Ruang Networks"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.3}, {"sensor_name": "kelembapan", "value": 53.8}], "time": "2019-12-05 16:26:00 +0700", "device_id": "Ruang Data Server"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.4}, {"sensor_name": "kelembapan", "value": 53.1}], "time": "2019-12-05 16:26:01 +0700", "device_id": "Ruang Networks"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.3}, {"sensor_name": "kelembapan", "value": 54.0}], "time": "2019-12-05 16:26:30 +0700", "device_id": "Ruang Data Server"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.3}, {"sensor_name": "kelembapan", "value": 54.1}], "time": "2019-12-05 16:26:31 +0700", "device_id": "Ruang Data Server"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.5}, {"sensor_name": "kelembapan", "value": 53.7}], "time": "2019-12-05 16:27:00 +0700", "device_id": "Ruang Networks"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.3}, {"sensor_name": "kelembapan", "value": 54.6}], "time": "2019-12-05 16:27:30 +0700", "device_id": "Ruang Data Server"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.5}, {"sensor_name": "kelembapan", "value": 54.3}], "time": "2019-12-05 16:28:00 +0700", "device_id": "Ruang Networks"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.3}, {"sensor_name": "kelembapan", "value": 55.1}], "time": "2019-12-05 16:28:01 +0700", "device_id": "Ruang Data Server"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.5}, {"sensor_name": "kelembapan", "value": 54.4}], "time": "2019-12-05 16:28:30 +0700", "device_id": "Ruang Networks"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.5}, {"sensor_name": "kelembapan", "value": 54.1}], "time": "2019-12-05 16:29:00 +0700", "device_id": "Ruang Networks"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.5}, {"sensor_name": "kelembapan", "value": 53.7}], "time": "2019-12-05 16:29:30 +0700", "device_id": "Ruang Networks"}
+{"sensors": [{"sensor_name": "temperatur", "value": 28.5}, {"sensor_name": "kelembapan", "value": 53.4}], "time": "2019-12-05 16:30:00 +0700", "device_id": "Ruang Networks"}

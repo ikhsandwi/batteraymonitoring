@@ -1,0 +1,37 @@
+version: "3"
+services:
+  EMScollect:
+    privileged: true
+    build:
+      context: .
+      dockerfile: service/collect/dockerfile
+    image: yudhabhakti/docker_ems_collect
+    container_name: EMScollect
+    restart: always
+    volumes:
+      - "/etc/timezone:/etc/timezone:ro"
+      - "/etc/localtime:/etc/localtime:ro"
+      - ./data/collect:/app/data/collect
+      - ./data/connect:/app/data/connect
+    devices:
+      - /dev:/dev
+  EMSconnect:
+    privileged: true
+    build:
+         context: .
+         dockerfile: service/connect/dockerfile
+    image: yudhabhakti/docker_ems_connect
+    container_name: EMSconnect
+    restart: always
+    volumes:
+      - "/etc/timezone:/etc/timezone:ro"
+      - "/etc/localtime:/etc/localtime:ro"
+      - ./data/connect:/app/data/connect
+  EMSrestart:
+    privileged: true
+    build:
+         context: .
+         dockerfile: service/restart/dockerfile
+    image: yudhabhakti/docker_ems_restart
+    container_name: EMSrestart
+    restart: always

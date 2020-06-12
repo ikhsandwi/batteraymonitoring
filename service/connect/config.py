@@ -1,0 +1,6 @@
+USERNAME = 'jeager'
+PASSWORD = 'Telkom123'
+SERVER='35.240.228.215' 
+PORT='5672'
+QUEUE='environment_sensor'
+ROUTING_KEY='environment_sensor'
