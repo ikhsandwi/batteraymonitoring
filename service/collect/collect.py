@@ -62,17 +62,17 @@ class ParseClass(object):
             logging.exception("Exception occurred create datalog")
 
     #Fungsi untuk menyimpan data sensor dalam format data yang ditentukan dalam bentuk JSON
-    def parse_data(self,id_perangkat,temperatur,kelembapan): 
+    def parse_data(self,id_perangkat,temperatur,baterai): 
         try:
             payload = {}
             payload_temperatur = {}
-            payload_kelembapan = {}
+            payload_baterai = {}
             payload_temperatur['sensor_name'] = 'temperatur'
             payload_temperatur['value'] = temperatur
-            payload_kelembapan['sensor_name'] = 'kelembapan'
-            payload_kelembapan['value'] = kelembapan
+            payload_baterai['sensor_name'] = 'baterai'
+            payload_baterai['value'] = baterai
             payload['device_id'] = str(id_perangkat)
-            payload['sensors'] = payload_temperatur,payload_kelembapan
+            payload['sensors'] = payload_temperatur,payload_baterai
             payload['time']= str(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')) + " +0700" 
             return (json.dumps(payload))
         except Exception:
@@ -89,7 +89,7 @@ class ParseClass(object):
                 else:
                     self.id_perangkat = "Ruang Panel Listrik 2"
                 temperatur,kelembapan = self.modbus.temperaturehumidity(unit)
-                self.datajson = self.parse_data(self.id_perangkat,temperatur,kelembapan) # Parsing data kedalam bentuk JSON untuk dikirim ke backend
+                self.datajson = self.parse_data(self.id_perangkat,temperatur,baterai) # Parsing data kedalam bentuk JSON untuk dikirim ke backend
                 self.parse_datalog(self.datajson,self.id_perangkat) # Parsing Data untuk disimpan di log file
                 self.intervalkirim(datetime.datetime.now().second,self.datajson)
                 time.sleep(0.5)
@@ -158,7 +158,7 @@ class SensorModbus(object):
         try:
             for port in self.serial_ports():
                 if 'ttyUSB' in port: # Mendeteksi ttyUSB terdeteksi
-                    self.client = ModbusClient(method='rtu', port=str(port),stopbits=1, bytesize=8, parity='N',baudrate=9600, timeout=5)
+                    self.client = ModbusClient(method='rtu', port=str(port),stopbits=1, bytesize=8, parity='N',baudrate=19200, timeout=5)
                     self.client.connect()
 
         except Exception:
@@ -171,11 +171,11 @@ class SensorModbus(object):
         # rawhumidity = self.client.read_input_registers(1,1,unit=1) #Register no 2 in datasheet size 1 words Device ID 1
         # humidity = round(rawhumidity.registers[0] * 0.01,2)
         #SHT20
-        rawtemperature = self.client.read_input_registers(1,1,unit=unit) #Register no 1 in datasheet size 2 words Decice ID 3
-        temperature = round(rawtemperature.registers[0] *0.1,2)
-        rawhumidity = self.client.read_input_registers(2,1,unit=unit) #Register no 3 in datasheet size 2 words Device ID 3
-        humidity = round(rawhumidity.registers[0]*0.1,2)
-        return (temperature,humidity)
+        rawtemperature = self.client.read_input_registers(3,1,unit=1) #Register no 1 in datasheet size 2 words Decice ID 3
+        temperature = round(rawtemperature.registers[0] *0.001,2)
+        rawbattery = self.client.read_input_registers(4,1,unit=1) #Register no 3 in datasheet size 2 words Device ID 3
+        battery = round(rawbattery.registers[0]*0.001,2)
+        return (temperature,battery)
 
 def main():
     datasensor = SensorModbus()
